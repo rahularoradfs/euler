@@ -1,1 +1,0 @@
-# highly divisible triangular number
